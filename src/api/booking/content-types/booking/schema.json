@@ -48,7 +48,7 @@
     "year": {
       "type": "integer"
     },
-    "Time": {
+    "time": {
       "type": "string"
     },
     "student": {
@@ -60,6 +60,9 @@
     "idcode": {
       "type": "string",
       "unique": true
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
