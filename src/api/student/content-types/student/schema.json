@@ -45,6 +45,12 @@
       "relation": "oneToMany",
       "target": "api::booking.booking",
       "mappedBy": "student"
+    },
+    "imgurl": {
+      "type": "string"
+    },
+    "grade": {
+      "type": "integer"
     }
   }
 }
