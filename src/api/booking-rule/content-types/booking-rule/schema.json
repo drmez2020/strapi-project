@@ -1,5 +1,5 @@
 {
-  "kind": "singleType",
+  "kind": "collectionType",
   "collectionName": "booking_rules",
   "info": {
     "singularName": "booking-rule",
