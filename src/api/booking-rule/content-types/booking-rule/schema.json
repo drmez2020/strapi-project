@@ -18,10 +18,10 @@
     "maxbreakruleFirstTime": {
       "type": "integer"
     },
-    "maxbreakAfterFirst": {
+    "maxbreakruleSecondTime": {
       "type": "integer"
     },
-    "maxAllowDeleteAfterBook": {
+    "maxAllowDeleteAfterBookCount": {
       "type": "integer"
     },
     "maxAllowDeleteBeforeStart": {
@@ -56,6 +56,15 @@
     },
     "lastPunishmentPeriodValue": {
       "type": "string"
+    },
+    "maxAllowDeleteAfterBookValue": {
+      "type": "string"
+    },
+    "maxAllowDeleteBeforeStartValue": {
+      "type": "string"
+    },
+    "maxbreakruleThirdTime": {
+      "type": "integer"
     }
   }
 }
