@@ -38,6 +38,24 @@
     },
     "lastTimeAllowNex": {
       "type": "integer"
+    },
+    "firstPunishmentPeriodCount": {
+      "type": "integer"
+    },
+    "firstPunishmentPeriodValue": {
+      "type": "string"
+    },
+    "secondPunishmentPeriodCount": {
+      "type": "integer"
+    },
+    "secondPunishmentPeriodValue": {
+      "type": "string"
+    },
+    "lastPunishmentPeriodCount": {
+      "type": "integer"
+    },
+    "lastPunishmentPeriodValue": {
+      "type": "string"
     }
   }
 }
