@@ -1,0 +1,43 @@
+{
+  "kind": "singleType",
+  "collectionName": "booking_rules",
+  "info": {
+    "singularName": "booking-rule",
+    "pluralName": "booking-rules",
+    "displayName": "BookingRule",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "maxRegularPerWeek": {
+      "type": "integer"
+    },
+    "maxbreakruleFirstTime": {
+      "type": "integer"
+    },
+    "maxbreakAfterFirst": {
+      "type": "integer"
+    },
+    "maxAllowDeleteAfterBook": {
+      "type": "integer"
+    },
+    "maxAllowDeleteBeforeStart": {
+      "type": "integer"
+    },
+    "startTimeAllowCur": {
+      "type": "integer"
+    },
+    "lastTimeAllowCur": {
+      "type": "integer"
+    },
+    "startTimeAllownext": {
+      "type": "integer"
+    },
+    "lastTimeAllowNex": {
+      "type": "integer"
+    }
+  }
+}
