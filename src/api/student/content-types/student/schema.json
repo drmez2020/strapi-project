@@ -51,6 +51,9 @@
     },
     "grade": {
       "type": "integer"
+    },
+    "activeInterim": {
+      "type": "boolean"
     }
   }
 }
