@@ -60,6 +60,9 @@
     "idcode": {
       "type": "string",
       "unique": true
+    },
+    "supervision": {
+      "type": "string"
     }
   }
 }
