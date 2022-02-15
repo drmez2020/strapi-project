@@ -9,7 +9,8 @@ module.exports = {
       qr.addData(data);
       qr.make();
       const qrImage = qr.createDataURL(8);
-      ctx.body = `<img src="${qrImage}" style="height:800px" />`;
+      // ctx.body = `<img src="${qrImage}" style="height:800px" />`;
+      ctx.body = { data: qrImage };
     } catch (err) {
       ctx.body = err;
     }
