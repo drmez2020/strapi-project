@@ -45,27 +45,6 @@
       "relation": "oneToMany",
       "target": "api::booking.booking",
       "mappedBy": "student"
-<<<<<<< HEAD
-    },
-    "imgurl": {
-      "type": "string"
-    },
-    "grade": {
-      "type": "integer"
-    },
-    "activeInterim": {
-      "type": "boolean"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    },
-    "email": {
-      "type": "email"
-=======
->>>>>>> 558860e4a4294f94ef87f23f69b4020c28a16a5d
->>>>>>> 82fcc7f4679b8d909c3e321178dc4732156cf674
-=======
->>>>>>> parent of 8a27454 (Revert "Revert "Update database config"")
     }
   }
 }
