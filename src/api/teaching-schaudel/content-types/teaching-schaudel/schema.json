@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "teaching_schaudels",
+  "info": {
+    "singularName": "teaching-schaudel",
+    "pluralName": "teaching-schaudels",
+    "displayName": "teachingSchaudel"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "numInWeek": {
+      "type": "integer"
+    },
+    "room": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "oneVsOne": {
+      "type": "boolean",
+      "default": false
+    },
+    "subject": {
+      "type": "string"
+    },
+    "teacher": {
+      "type": "string"
+    },
+    "student": {
+      "type": "string"
+    },
+    "assistant": {
+      "type": "string"
+    }
+  }
+}
