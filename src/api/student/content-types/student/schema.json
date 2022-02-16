@@ -54,9 +54,6 @@
     },
     "activeInterim": {
       "type": "boolean"
-    },
-    "email": {
-      "type": "email"
     }
   }
 }
