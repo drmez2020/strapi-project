@@ -45,6 +45,7 @@
       "relation": "oneToMany",
       "target": "api::booking.booking",
       "mappedBy": "student"
+<<<<<<< HEAD
     },
     "imgurl": {
       "type": "string"
@@ -57,6 +58,8 @@
     },
     "email": {
       "type": "email"
+=======
+>>>>>>> 558860e4a4294f94ef87f23f69b4020c28a16a5d
     }
   }
 }

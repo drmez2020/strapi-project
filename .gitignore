@@ -113,4 +113,3 @@ exports
 build
 .strapi-updater.json
 pnpm-lock.yaml
-
