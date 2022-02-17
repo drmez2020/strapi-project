@@ -54,6 +54,9 @@
     },
     "activeInterim": {
       "type": "boolean"
+    },
+    "PunishmentReason": {
+      "type": "string"
     }
   }
 }
