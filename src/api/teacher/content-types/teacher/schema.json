@@ -28,7 +28,8 @@
       "type": "string"
     },
     "officialCode": {
-      "type": "string"
+      "type": "string",
+      "unique": true
     },
     "position": {
       "type": "string"
