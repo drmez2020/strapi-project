@@ -24,7 +24,7 @@
     "title": {
       "type": "string"
     },
-    "url": {
+    "urlimg": {
       "type": "string"
     },
     "officialCode": {
