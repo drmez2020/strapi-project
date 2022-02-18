@@ -4,7 +4,8 @@
   "info": {
     "singularName": "teacher",
     "pluralName": "teachers",
-    "displayName": "teacher"
+    "displayName": "teacher",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -18,6 +19,24 @@
       "type": "string"
     },
     "permissions": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "officialCode": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "specification": {
+      "type": "string"
+    },
+    "email": {
       "type": "string"
     }
   }
