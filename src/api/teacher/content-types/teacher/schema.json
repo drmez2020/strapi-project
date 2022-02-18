@@ -24,9 +24,6 @@
     "title": {
       "type": "string"
     },
-    "urlimg": {
-      "type": "string"
-    },
     "officialCode": {
       "type": "string",
       "unique": true
@@ -38,6 +35,17 @@
       "type": "string"
     },
     "email": {
+      "type": "string"
+    },
+    "img": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "photo": {
       "type": "string"
     }
   }
