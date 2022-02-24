@@ -21,6 +21,10 @@
     "nameShort": {
       "type": "string"
     },
+    "punished": {
+      "type": "boolean",
+      "default": false
+    },
     "canceledBooks": {
       "type": "integer"
     },
@@ -48,13 +52,11 @@
     "grade": {
       "type": "integer"
     },
+    "activeInterim": {
+      "type": "boolean"
+    },
     "PunishmentReason": {
       "type": "string"
-    },
-    "punished": {
-      "type": "integer",
-      "default": 0,
-      "max": 1
     }
   }
 }
