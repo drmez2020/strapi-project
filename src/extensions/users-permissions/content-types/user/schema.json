@@ -66,6 +66,9 @@
     "officialCode": {
       "type": "string",
       "unique": true
+    },
+    "userType": {
+      "type": "string"
     }
   }
 }
