@@ -4,7 +4,8 @@
   "info": {
     "singularName": "booking-rule",
     "pluralName": "booking-rules",
-    "displayName": "BookingRule"
+    "displayName": "BookingRule",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -59,11 +60,17 @@
     "lastPunishmentPeriodValue": {
       "type": "string"
 <<<<<<< HEAD
+<<<<<<< HEAD
     },
     "yearStart": {
       "type": "date"
 =======
 >>>>>>> 2be75b8abb01b0d01e6b4de268a184998916a64d
+=======
+    },
+    "yearStart": {
+      "type": "date"
+>>>>>>> parent of f97a366 (Revert "Merge branch 'master' of https://github.com/drmez2020/strapi-project")
     }
   }
 }

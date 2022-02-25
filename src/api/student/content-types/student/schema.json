@@ -51,10 +51,14 @@
     },
     "grade": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f97a366 (Revert "Merge branch 'master' of https://github.com/drmez2020/strapi-project")
       "type": "string"
     },
     "punishmentReason": {
       "type": "string"
+<<<<<<< HEAD
     },
     "activeInterim": {
       "type": "boolean",
@@ -71,6 +75,12 @@
 >>>>>>> parent of 1a1bff2 (Update schema.json)
 =======
 >>>>>>> parent of 4507d54 (Update schema.json)
+=======
+    },
+    "activeInterim": {
+      "type": "boolean",
+      "default": false
+>>>>>>> parent of f97a366 (Revert "Merge branch 'master' of https://github.com/drmez2020/strapi-project")
     }
   }
 }
