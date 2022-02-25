@@ -46,6 +46,7 @@
       "type": "string"
     },
     "grade": {
+<<<<<<< HEAD
       "type": "string"
     },
     "punishmentReason": {
@@ -57,6 +58,12 @@
     },
     "punished": {
       "type": "integer"
+=======
+      "type": "integer"
+    },
+    "activeInterim": {
+      "type": "boolean"
+>>>>>>> parent of 1a1bff2 (Update schema.json)
     }
   }
 }
