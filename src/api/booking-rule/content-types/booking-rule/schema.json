@@ -42,12 +42,6 @@
     "lastTimeAllowCur": {
       "type": "integer"
     },
-    "startTimeAllownext": {
-      "type": "integer"
-    },
-    "lastTimeAllowNex": {
-      "type": "integer"
-    },
     "firstPunishmentPeriodCount": {
       "type": "integer"
     },
