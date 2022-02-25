@@ -16,7 +16,7 @@
       "type": "boolean",
       "default": true
     },
-    "Name": {
+    "name": {
       "type": "string"
     },
     "userType": {

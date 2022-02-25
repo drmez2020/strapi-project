@@ -4,7 +4,8 @@
   "info": {
     "singularName": "booking-rule",
     "pluralName": "booking-rules",
-    "displayName": "BookingRule"
+    "displayName": "BookingRule",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -64,6 +65,9 @@
     },
     "lastPunishmentPeriodValue": {
       "type": "string"
+    },
+    "yearStart": {
+      "type": "date"
     }
   }
 }
