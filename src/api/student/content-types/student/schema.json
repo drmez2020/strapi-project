@@ -21,6 +21,10 @@
     "nameShort": {
       "type": "string"
     },
+    "punished": {
+      "type": "boolean",
+      "default": false
+    },
     "canceledBooks": {
       "type": "integer"
     },
@@ -55,6 +59,7 @@
     "activeInterim": {
       "type": "boolean",
       "default": false
+<<<<<<< HEAD
     },
     "punished": {
       "type": "integer"
@@ -64,6 +69,8 @@
     "activeInterim": {
       "type": "boolean"
 >>>>>>> parent of 1a1bff2 (Update schema.json)
+=======
+>>>>>>> parent of 4507d54 (Update schema.json)
     }
   }
 }
