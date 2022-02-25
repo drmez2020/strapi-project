@@ -50,14 +50,10 @@
       "type": "string"
     },
     "grade": {
-      "type": "string"
-    },
-    "punishmentReason": {
-      "type": "string"
+      "type": "integer"
     },
     "activeInterim": {
-      "type": "boolean",
-      "default": false
+      "type": "boolean"
     }
   }
 }
